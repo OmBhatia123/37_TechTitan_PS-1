@@ -1,1 +1,1 @@
-# 37_TechTitans
+# AI Content Authenticity Challenge
